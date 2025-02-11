@@ -1,4 +1,4 @@
 print("welcome")
-print("one")
+print("two")
 for i in range(5):
     print(i)
